@@ -8,7 +8,6 @@
 This time I designed an application for productivity purposes, I named the application Task 😎. In that app we can add our daily activities, tasks and projects. We can also track how far our projects are progressing, and we can get weekly reports on the percentage of all our tasks that have been completed. What do you think? hope you like it! 🔥
 <hr>
 
-<hr>
 <h1 align="center">Challenges and Learnings along the way 🤯</h1>
 
 ````
