@@ -17,11 +17,11 @@ certain amount of time, and the only thing I should have done was to give a "Flu
 this solution,and the application works normally in version 3.0.5 
 ````
 
-<hr>
-<h1 align="center">How to Contribute 💪</h1>
+
+<h1 align="center">Privacy Policy - 2023 </h1>
 
 
-<hr>
+
 <h1 align="center">License 📝</h1>
 
 This repository is under MIT license. You can see the LICENSE file for more details. 😉
