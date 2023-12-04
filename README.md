@@ -8,16 +8,6 @@
 This time I designed an application for productivity purposes, I named the application Task 😎. In that app we can add our daily activities, tasks and projects. We can also track how far our projects are progressing, and we can get weekly reports on the percentage of all our tasks that have been completed. What do you think? hope you like it! 🔥
 <hr>
 
-<h1 align="center">Challenges and Learnings along the way 🤯</h1>
-
-````
-In the development of these applications, I learned a lot about logic, folder organization, and I had a new idea and learned about
-Flutter Widgets.I got along well with the development of this application. Unfortunately there was a silly error that cost me a
-certain amount of time, and the only thing I should have done was to give a "Flutter Pub Get" in Terminal, fortunately, I found
-this solution,and the application works normally in version 3.0.5 
-````
-
-
 <h1 align="center">Privacy Policy - 2023 </h1>
 
 
